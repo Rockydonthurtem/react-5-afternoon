@@ -12,6 +12,7 @@ ReactDOM.render(
         <HashRouter>
             <App />
         </HashRouter>
-    </Provider>, document.getElementById('root'));
+    </Provider>
+    , document.getElementById('root'));
 registerServiceWorker();
 
