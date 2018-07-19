@@ -36,15 +36,15 @@ export default (
 
         <Route component={WizardSeven} path="/wSeven" />
 
-        <Route compoent={WizardEight} path="/wEight" />
+        <Route component={WizardEight} path="/wEight" />
 
-        <Route compoent={WizardNine} path="wNine" />
+        <Route component={WizardNine} path="/wNine" />
 
-        <Route compoent={WizardTen} path="wTen" />
+        <Route component={WizardTen} path="/wTen" />
 
         <Route component={WizardEleven} path="/wEleven" />
 
-        <Route compoent={Finish} path='/finish' />
+        <Route component={Finish} path='/finish' />
 
     </Switch>
 )
