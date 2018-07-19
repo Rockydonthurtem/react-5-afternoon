@@ -9,9 +9,9 @@ class App extends Component {
     return (
       <div>
 
-        {
-          { router }
-        }
+
+        {router}
+
 
       </div>
     );
